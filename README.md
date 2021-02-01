@@ -6,6 +6,7 @@ special thanks to: Prof.Charles Severance (dr.chuck).
 
 contents :
   - the least number among 3: the user enters 3 intgers, the system tells him which is the least
+  - intger input detection: the user enters an intger, the system makes sure the intger is acutually an intger and winthin a certain range 
 
 Made by: Mahmoud Fawzy Taha-Elaraby
 Alexandria,Egypt
