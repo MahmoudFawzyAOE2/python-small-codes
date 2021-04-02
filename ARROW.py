@@ -16,9 +16,12 @@ def neg_tri (x,d):
     
 x=int(input('enter the size: '))
 n=0
+
+#Upper half
 for n in range(x) :
     print (x*'# '+x*'  '+(n+1)*'# ')
 
+#Middle Half
 if x%2==0: #even
     v=int(x/2)
     pos_tri(v,0)
@@ -28,6 +31,8 @@ else : #odd
     pos_tri(v,1)
     print (x*'# '+x*'# '+x*'# '+int((x+1)/2)*'# ')
     neg_tri(v,1)
+
+#Lower Half
 for n in range(x) :
     print (x*'# '+x*'  '+(x-n)*'# ')    
     
