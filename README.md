@@ -8,6 +8,7 @@ contents :
   - the least number among 3: the user enters 3 intgers, the system tells him which is the least
   - intger input detection: the user enters an intger, the system makes sure the intger is acutually an intger and winthin a certain range 
   - ARROW: the user enters the arrow size & it creates an arrow in a certain pattern 
+  - up triangle: a general formula to generate an equally-sided triangle 
 
 Made by: Mahmoud Fawzy Taha-Elaraby
 Alexandria,Egypt
