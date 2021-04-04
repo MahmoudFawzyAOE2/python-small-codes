@@ -9,6 +9,7 @@ contents :
   - intger input detection: the user enters an intger, the system makes sure the intger is acutually an intger and winthin a certain range 
   - ARROW: the user enters the arrow size & it creates an arrow in a certain pattern 
   - up triangle: a general formula to generate an equally-sided triangle 
+  - Fanoos: the user gives the size and the program generates a Fanoos (Ramadan Mubarak)
 
 Made by: Mahmoud Fawzy Taha-Elaraby
 Alexandria,Egypt
