@@ -20,5 +20,8 @@ contents :
     English: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-factors-and-multiples/cc-6th-lcm/v/least-common-multiple-exercise
   - Fanoos: the user gives the size and the program generates a Fanoos (Ramadan Mubarak)
 
-Made by: Mahmoud Fawzy Taha-Elaraby
+Made by: 
+
+Mahmoud Fawzy Taha-Elaraby
+
 Alexandria,Egypt
