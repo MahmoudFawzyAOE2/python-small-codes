@@ -19,6 +19,7 @@ contents :
     
     English: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-factors-and-multiples/cc-6th-lcm/v/least-common-multiple-exercise
   - Fanoos: the user gives the size and the program generates a Fanoos (Ramadan Mubarak)
+  - Guessing The Number: the program will predict any number you have pre set between 0 & 100
 
 Made by: 
 
