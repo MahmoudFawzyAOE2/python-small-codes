@@ -13,6 +13,7 @@ contents :
   - ARROW: the user enters the arrow size & it creates an arrow in a certain pattern 
   - up triangle: a general formula to generate an equally-sided triangle 
   - Factors&GCD&LCM: the user enters 2 intgers, the system calculates each number prime factors & GCD & LCM 
+
     explanation of the mathematical concept: 
     
     Arabic: https://www.youtube.com/watch?v=VH2t8lV52rg
